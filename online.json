@@ -1,6 +1,4 @@
-
 { "storeHouse": [ 
-
 {"sourceName":"本地收集","sourceUrl":"https://ghproxy.com/https://raw.githubusercontent.com/softup1/s1/main/local.json"},
 {"sourceName":"在线收集","sourceUrl":"https://ghproxy.com/https://raw.githubusercontent.com/softup1/s1/main/online2.json"},
 {"sourceName":"在线收集x","sourceUrl":"https://ghproxy.com/https://raw.githubusercontent.com/softup1/s1/main/onlinex.json"},
@@ -66,6 +64,7 @@
 {"sourceName":"日后精选单仓","sourceUrl":"http://rihou.cc:55/"},
 {"sourceName":"刘备精选单仓","sourceUrl":"https://raw.liucn.cc/box/dc.txt"},
 {"sourceName":"高天流云多仓","sourceUrl":"https://agit.ai/butterfly/md/raw/branch/Zaku/DC-main.json"},
+{"sourceName":"电视盒子单仓","sourceUrl":"http://chuanshuo.77blog.cn/yuan"},
 {"sourceName":"1号库","sourceUrl":"https://box.nxog.top/1"},
 {"sourceName":"2号库","sourceUrl":"https://box.nxog.top/2"},
 {"sourceName":"3号库","sourceUrl":"https://box.nxog.top/3"},
@@ -84,6 +83,5 @@
 {"sourceName":"16号库","sourceUrl":"https://box.nxog.top/16"},
 {"sourceName":"17号库","sourceUrl":"https://box.nxog.top/17"},
 {"sourceName":"18号库","sourceUrl":"https://box.nxog.top/18"},
-{"sourceName":"19号库","sourceUrl":"https://box.nxog.top/19"},
-{"sourceName":"电视盒子单仓","sourceUrl":"http://chuanshuo.77blog.cn/yuan"}
+{"sourceName":"19号库","sourceUrl":"https://box.nxog.top/19"}
 ] }
